@@ -8,6 +8,22 @@ Developed as part of the Advanced Human-Computer Interaction coursework at Herio
 
 The prototype incorporates multilingual support, voice-assisted interaction, emergency assistance features, service enquiries, and accessibility-focused design principles to support more inclusive access to public services.
 
+## Interactive Prototype
+
+View the interactive Figma prototype:
+
+[Figma Interactive Prototype](https://www.figma.com/proto/LBhpHPYJ5y7pwJCKDi9KvB/F21AD_CW)
+
+The prototype contains separate user journeys for:
+- New users
+- Existing users
+
+Key functionality includes multilingual support, service guidance, enquiries, emergency assistance, and accessibility-focused navigation.
+
+## Project Scope
+
+The application was designed to support access to a range of public and community services, including housing information, health-related support, emergency assistance, and general service enquiries.
+
 ## Problem Statement
 
 Minority ethnic communities often experience barriers when accessing essential services due to language differences, digital exclusion, limited service awareness, and accessibility challenges.
@@ -77,10 +93,10 @@ Repository maintained by Mercy Nthiwa for portfolio and educational purposes.
 
 ## Author
 
-Mercy Nthiwa
+**Mercy Nthiwa**
 
-MSc Artificial Intelligence (Distinction)
+MSc Artificial Intelligence (Distinction)  
 Heriot-Watt University
 
-Interests: Human-Computer Interaction, Accessible Design, Artificial Intelligence, and Digital Health Technologies.
+Interests: Artificial Intelligence, Human-Computer Interaction, Accessible Design, and Digital Health Technologies.
 
