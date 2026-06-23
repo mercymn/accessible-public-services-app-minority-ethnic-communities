@@ -100,3 +100,33 @@ Heriot-Watt University
 
 Interests: Artificial Intelligence, Human-Computer Interaction, Accessible Design, and Digital Health Technologies.
 
+## Application Screenshots
+
+### Language Selection
+
+![Language Selection](images/language-selection-screen.png)
+
+### Sign In
+
+![Sign In](images/sign-in-screen.png)
+
+### Home Dashboard
+
+![Home Dashboard](images/home-screen.png)
+
+### Housing Services
+
+![Housing Services](images/housing-services-screen.png)
+
+### Find Home
+
+![Find Home](images/find-home-screen.png)
+
+### Sign Up
+
+![Sign Up](images/sign-up-screen.png)
+
+### Emergency Support
+
+![Emergency Support](images/emergency-support-screen.png)
+
